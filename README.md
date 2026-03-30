@@ -18,4 +18,4 @@ This repository contains my Directed Reading Program (DRP) project focused on Ra
 - Presented results through the University of Michigan DRP program
 
 ## Paper
-See `paper.pdf` for the full write-up.
+See `Ramsey_Theory_DRP_2025.pdf` for the full write-up.
